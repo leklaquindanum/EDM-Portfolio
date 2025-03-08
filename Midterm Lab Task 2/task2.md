@@ -12,10 +12,7 @@ on generating insights that will answer the following questions:
 ## 2. Screenshot Before Cleaning and Transformation  👇 
 ![Image](https://github.com/user-attachments/assets/5582453b-123d-4619-8f02-c17993a9db86)
 
-## 3. Step-by-step process in Data Cleaning and Transformation
-![Image](https://github.com/user-attachments/assets/48507095-96e1-407c-ad71-33c14300c75d)
-
-## Step-by-Step Process
+## 3. Step-by-Step Process
 ### Step 1: Download and Load Data  
 1. Download the dataset (Uncleaned_DS_jobs.csv)  
 2. Open Excel  
@@ -118,6 +115,10 @@ on generating insights that will answer the following questions:
 ### Step 13: View Query Dependencies  
 1. Go to View Menu → Click Dependencies  
 2. Check if all queries are correctly linked  
+
+## Screenshot of Advanced Editor 👇
+![Image](https://github.com/user-attachments/assets/48507095-96e1-407c-ad71-33c14300c75d)
+
 
 ## Screenshot After Cleaning and Transformation (Final Output) 👇 
 ![Image]
