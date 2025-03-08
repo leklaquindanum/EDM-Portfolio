@@ -8,5 +8,5 @@ College: City College of Angeles (2024-Present)
 High School: Systems Plus College Foundation (2022-2024)
 
 ## 📝 My Projects:
-- Midterm Lab Task 1: [Data Cleansing and Preparation using EXCEL](Midterm Lab Task 1/task1.md)
+- Midterm Lab Task 1: [Data Cleansing and Preparation using EXCEL](Midterm%20Lab%20Task%201/task1.md)
 - Midterm Lab Task 2: [Data Cleansing and Preparation using POWER QUERY]()
