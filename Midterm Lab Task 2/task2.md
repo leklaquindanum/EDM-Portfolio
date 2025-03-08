@@ -31,29 +31,31 @@ on generating insights that will answer the following questions:
 2. Go to Transform Menu → Extract → Text Before Delimiter  
 3. Type "(" and click OK  
 4. Create two new columns: Min Salary and Max Salary  
-   - Select Salary Estimate column → Add Column Menu → Column from Examples → From Selections  
-   - Type the first min salary value and press Enter (all rows will auto-fill)  
-   - Rename the column to "Min Sal"  
-   - Repeat the process for Max Salary  
+- Select Salary Estimate column → Add Column Menu → Column from Examples → From Selections  
+- Type the first min salary value and press Enter (all rows will auto-fill)  
+- Rename the column to "Min Sal"  
+- Repeat the process for Max Salary  
 
 ### Step 4: Add Role Type Column  
 1. Go to Add Column Menu → Custom Column  
 2. Rename the column to "Role Type"  
-3. Use this logic:  
-   - If Job Title contains "Data Scientist" → Assign "Data Scientist"  
-   - If Job Title contains "Data Analyst" → Assign "Data Analyst"  
-   - If Job Title contains "Data Engineer" → Assign "Data Engineer"  
-   - If Job Title contains "Machine Learning" → Assign "Machine Learning Engineer"  
-   - Otherwise, assign "Other"  
-4. Change the column type to Text  
+3. Use this logic:
+- If Job Title contains "Data Scientist" → Assign "Data Scientist"  
+- If Job Title contains "Data Analyst" → Assign "Data Analyst"  
+- If Job Title contains "Data Engineer" → Assign "Data Engineer"  
+- If Job Title contains "Machine Learning" → Assign "Machine Learning Engineer"
+- Otherwise, assign "Other"  
+
+5. Change the column type to Text  
 
 ### Step 5: Split Location Column  
 1. Select the Location column  
 2. Add a Custom Column with corrections:  
-   - If Location = "New Jersey" → Assign ", NJ"  
-   - If Location = "Remote" or "United States" → Assign ", Other"  
-   - If Location = "Texas" → Assign ", TX"  
-   - If Location = "California" → Assign ", CA"  
+- If Location = "New Jersey" → Assign ", NJ"
+- If Location = "Remote" or "United States" → Assign ", Other"
+- If Location = "Texas" → Assign ", TX"
+- If Location = "California" → Assign ", CA"  
+
 3. Click OK, then select the new column  
 4. Go to Transform → Split Column → By Delimiter (comma ",")  
 5. Click OK  
