@@ -3,17 +3,17 @@ A demonstration of the processing of data normalization and cleaning for a trans
 
 ## Instructions
 
-- Open the file of the raw and unorganized data.
-- Fix the width and height of columns with AutoFit.
-- Trim specific words and spaces using the TRIM command.
-- Remove "null" values.
-- Remove duplicate rows and you just completed a 1NF.
-
-
-- Run a "Spilt Tab" using 2NF and 2NF is completed.
-
-
-- Map out and organize the relationships of the normalization (cleaned data) to create a physical data model.
+1. Open the file of the raw and unorganized data.
+2. Fix the width and height of columns and rows with AutoFit.
+3. Identify and remove duplicates.
+4. Trim specific words and spaces using the TRIM command.
+5. Eliminate blank cells with the FIND AND SELECT tab.
+6. Recheck for spelling errors using the SPELLING tab.
+7. Validate data and handle errors with IFERROR function.
+8. FORMAT CELLS for the number formats.
+9. FIND AND REPLACE the values needed to be replaced.
+10. Normalize the data and create necessary IDs to specific tables.
+11. Use POWER QUERY EDITOR to create a map out and organize the relationships of the normalization (cleaned data) to create a physical data model.
 
  
 ## Before Data Cleaning (Raw)
