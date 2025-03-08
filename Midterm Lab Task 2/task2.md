@@ -76,7 +76,48 @@ on generating insights that will answer the following questions:
 
 ### Step 9: Copy Cleaning Steps as Proof  
 1. Go to Home Menu → Click Advanced Editor  
-2. Copy and save the code in your portfolio  
+2. Copy and save the code in your portfolio
+
+### Step 10: Reshape and Group Data  
+#### Group by Role Type  
+1. Duplicate the raw data → Rename it as "Sal By Role Type dup"  
+2. Select only Role Type, Min Salary, and Max Salary columns  
+3. Change Min and Max Salary type to currency  
+4. Multiply values by 1000 (Numbers Column → Standard → Multiply → Type 1000)  
+5. Group rows by Role Type and get the average for Min and Max Salary  
+
+#### Group by Company Size  
+1. Create a reference of raw data → Rename it as "Sal By Role Size ref"  
+2. Select only Size, Min Salary, and Max Salary columns  
+3. Change Min and Max Salary type to currency  
+4. Multiply values by 1000  
+5. Group rows by Size and get the average for Min and Max Salary  
+
+
+### Step 11: Merge State Mapping  
+1. Click Unclean DS Jobs  
+2. Right-click in the Queries pane → New Query → Open Workbook State Mapping  
+3. Select the columns and click OK  
+4. Select Uncleaned DS Jobs query  
+5. Choose the State Abbreviation column in both queries  
+6. Click Merge → Click OK  
+7. Rename the merged column as "State Full Name"  
+8. Remove nulls and blanks  
+
+
+
+### Step 12: Group by State  
+1. Create a reference of raw data → Rename it as "Sal By State ref"  
+2. Select only State Full Name, Min Salary, and Max Salary columns  
+3. Change Min and Max Salary type to currency  
+4. Multiply values by 1000  
+5. Group rows by State Full Name and get the average for Min and Max Salary  
+
+
+
+### Step 13: View Query Dependencies  
+1. Go to View Menu → Click Dependencies  
+2. Check if all queries are correctly linked  
 
 ## Screenshot After Cleaning and Transformation (Final Output) 👇 
 ![Image]
