@@ -10,4 +10,5 @@ A demonstration of the processing of data normalization and cleaning for a trans
 - Remove duplicate rows
 - You just completed a 1NF.
 
+
 - Run a "Spilt Tab" using 2NF and 2NF is completed.
