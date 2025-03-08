@@ -1,7 +1,12 @@
 # EDM-V3 LAQUINDANUM
 Midterm Portfolio for 7EDM-I102. Consists of screenshots of the tasks and processes of the subject.
+
 ## 💡 About Me
-Hello, I am Allek Miehl Almanzar Laquindanum. 18 years old. This is my official portfolio for the EDM Midterm Lab Task.
+Hello, I am Allek Miehl Almanzar Laquindanum.
+18 years old.
+From the section I102 of the BSIS course.
+This is my official portfolio for the EDM Midterm Lab Task.
+
 ## 🎓 Education
 College: City College of Angeles (2024-Present)
 
