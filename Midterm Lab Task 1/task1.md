@@ -7,7 +7,7 @@ A demonstration of the processing of data normalization and cleaning for a trans
 - Fix the width and height of columns with AutoFit
 - Trim specific words and spaces using the TRIM command
 - Remove "null" values
-- Remove duplicate rows 
-You just completed a 1NF.
+- Remove duplicate rows
+- You just completed a 1NF.
 
 - Run a "Spilt Tab" using 2NF and 2NF is completed.
