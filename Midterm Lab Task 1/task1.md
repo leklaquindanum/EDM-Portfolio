@@ -1,7 +1,7 @@
-## MIDTERM LAB TASK 1
+# MIDTERM LAB TASK 1
 A demonstration of the processing of data normalization and cleaning for a transactional. Its purpose is to enhance data's order and organizing and remove data redundancy.
 
-# Instructions
+## Instructions
 
 - Open the file of the raw and unorganized data
 - Fix the width and height of columns with AutoFit
