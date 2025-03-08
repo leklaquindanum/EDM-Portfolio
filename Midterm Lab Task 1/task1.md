@@ -12,3 +12,4 @@ A demonstration of the processing of data normalization and cleaning for a trans
 
 
 - Run a "Spilt Tab" using 2NF and 2NF is completed.
+![Image](https://github.com/user-attachments/assets/1f0186ca-c380-498e-afb5-4e324052798b)
