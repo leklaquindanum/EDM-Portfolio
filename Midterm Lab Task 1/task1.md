@@ -17,11 +17,11 @@ A demonstration of the processing of data normalization and cleaning for a trans
 11. Use POWER QUERY EDITOR to create a map out and organize the relationships of the normalization (cleaned data) to create a physical data model.
 
  
-## Step 3: Before Data Cleaning (Raw)
+### Step 3: Before Data Cleaning (Raw)
 ![Image](https://github.com/user-attachments/assets/1f0186ca-c380-498e-afb5-4e324052798b)
 
-## Step 4: After Data Cleaning (Organized)
+### Step 4: After Data Cleaning (Organized)
 ![Image](https://github.com/user-attachments/assets/b0549751-e216-469c-a366-69ace4d1cc60)
 
-## The Physical Data Model
+### The Physical Data Model
 ![Image](https://github.com/user-attachments/assets/b7660b1c-5ec6-4a2d-b992-2282ae1abf76)
