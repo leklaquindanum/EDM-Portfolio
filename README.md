@@ -1,5 +1,5 @@
 # EDM-V3 LAQUINDANUM
-                    ![Image](https://github.com/user-attachments/assets/6217b552-8be9-4096-a07e-5f3c6528368a)
+![Image](https://github.com/user-attachments/assets/6217b552-8be9-4096-a07e-5f3c6528368a)
 
 *sample photo only*
 
