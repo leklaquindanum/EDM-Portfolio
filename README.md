@@ -1,5 +1,6 @@
 # EDM-V3 LAQUINDANUM
 ![Image](https://github.com/user-attachments/assets/6217b552-8be9-4096-a07e-5f3c6528368a)
+
 Midterm Portfolio for 7EDM-I102. This portfolio consists of screenshots of the tasks and processes of the provided tasks.
 
 ## 💡 About Me
