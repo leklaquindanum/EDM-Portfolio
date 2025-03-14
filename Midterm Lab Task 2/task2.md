@@ -1,7 +1,7 @@
 # MIDTERM LAB TASK 2
 This portfolio demonstrates how to clean and prepare data using Power Query. The dataset is made up of several related tables, with cleaning techniques used to improve data quality and consistency before analysis.
 
-## Screenshot of Advanced Editor 👇
+## Screenshot of Excel's Advanced Editor 👇
 ![Image](https://github.com/user-attachments/assets/48507095-96e1-407c-ad71-33c14300c75d)
 
 ## 1. Task Description:
