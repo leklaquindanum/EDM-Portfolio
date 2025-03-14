@@ -1,6 +1,9 @@
 # MIDTERM LAB TASK 2
 This portfolio demonstrates how to clean and prepare data using Power Query. The dataset is made up of several related tables, with cleaning techniques used to improve data quality and consistency before analysis.
 
+## Screenshot of Advanced Editor 👇
+![Image](https://github.com/user-attachments/assets/48507095-96e1-407c-ad71-33c14300c75d)
+
 ## 1. Task Description:
 Company X would like to extract some useful information from the UnclenedDSJObs csv taken
 from a Job Posting site available in Kaggle. There are a lot of columns available but focus only
@@ -116,8 +119,7 @@ on generating insights that will answer the following questions:
 1. Go to View Menu → Click Dependencies  
 2. Check if all queries are correctly linked  
 
-## Screenshot of Advanced Editor 👇
-![Image](https://github.com/user-attachments/assets/48507095-96e1-407c-ad71-33c14300c75d)
+
 
 
 ## Screenshot After Cleaning and Transformation (Final Output) 👇 
