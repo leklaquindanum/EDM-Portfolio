@@ -1,10 +1,7 @@
-# MIDTERM LAB TASK 2
+![image](https://github.com/user-attachments/assets/c2ab3879-d50f-4005-89d8-82ac7f2d8533)# MIDTERM LAB TASK 2
 This portfolio demonstrates how to clean and prepare data using Power Query. The dataset is made up of several related tables, with cleaning techniques used to improve data quality and consistency before analysis.
 
-## Screenshot of Excel's Advanced Editor 👇
-![Image](https://github.com/user-attachments/assets/48507095-96e1-407c-ad71-33c14300c75d)
-
-## 1. Task Description:
+## Task Description:
 Company X would like to extract some useful information from the UnclenedDSJObs csv taken
 from a Job Posting site available in Kaggle. There are a lot of columns available but focus only
 on generating insights that will answer the following questions:
@@ -12,10 +9,8 @@ on generating insights that will answer the following questions:
 2. What size companies pay the best.
 3. Where Job Roles or Job Titles pay the best and least in a specific state.
  
-## 2. Screenshot Before Cleaning and Transformation  👇 
-![Image](https://github.com/user-attachments/assets/5582453b-123d-4619-8f02-c17993a9db86)
 
-## 3. Step-by-Step Process
+## Step-by-Step Process
 ### Step 1: Download and Load Data  
 1. Download the dataset (Uncleaned_DS_jobs.csv)  
 2. Open Excel  
@@ -120,7 +115,28 @@ on generating insights that will answer the following questions:
 2. Check if all queries are correctly linked  
 
 
+## Screenshots 
 
+### Before Cleaning and Transformation (Raw) 👇
+![Image](https://github.com/user-attachments/assets/6c8ebc71-f089-4474-9a65-038c26dacf7a)
 
-## Screenshot After Cleaning and Transformation (Final Output) 👇 
-![Image]
+### Advanced Editor 👇
+![Image](https://github.com/user-attachments/assets/48507095-96e1-407c-ad71-33c14300c75d)
+
+### After Cleaning and Transformation (Final Output) 👇 
+![Image](https://github.com/user-attachments/assets/9c612847-5713-4b02-8a01-b8dabf2560ba)
+
+### Sal by Role Type 👇
+![Image](https://github.com/user-attachments/assets/19512048-98a0-42f8-be5f-e1d7b75808b4)
+
+### Sal by Size
+![Image](https://github.com/user-attachments/assets/1284e0ba-12f7-4caa-8f14-2a03d8186c68)
+
+### Sal by State 👇
+![Image](https://github.com/user-attachments/assets/85cece4a-00e7-4133-a926-63d7380a5df2)
+
+### States 👇
+![Image](https://github.com/user-attachments/assets/df845eb8-193e-46e5-b566-f5c73e7f0c31)
+
+### Query Dependencies 👇
+![Image](https://github.com/user-attachments/assets/9e91469f-ff52-48cc-947d-b7eb846fde79)
