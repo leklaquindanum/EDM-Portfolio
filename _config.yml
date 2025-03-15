@@ -1,6 +1,6 @@
 title: 7EDM Portfolio of Allek Laquindanum
+description: My Final portfolio for 7EDm's Midterm Lab Tasks
 show_downloads: true
-#theme: jekyll-theme-architect
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+#theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins: - jekyll-remote-theme # add this line to the plugins list if you already have one
