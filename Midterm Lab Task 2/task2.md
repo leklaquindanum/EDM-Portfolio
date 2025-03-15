@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c2ab3879-d50f-4005-89d8-82ac7f2d8533)# MIDTERM LAB TASK 2
+# MIDTERM LAB TASK 2
 This portfolio demonstrates how to clean and prepare data using Power Query. The dataset is made up of several related tables, with cleaning techniques used to improve data quality and consistency before analysis.
 
 ## Task Description:
