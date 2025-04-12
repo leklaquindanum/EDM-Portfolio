@@ -24,6 +24,12 @@ Junior High School: Dr. Clemente N. Dayrit Senior Memorial High School (2018-202
 Elementary: Salapungan Elementary School (2012-2018)
 
 ## 📝 My Projects:
+### For Midterms  👇 
 - Midterm Lab Task 1: [Data Cleansing and Preparation using EXCEL](https://leklaquindanum.github.io/Midterm-Lab-Task-1/)
 - Midterm Lab Task 2: [Data Cleansing and Preparation using POWER QUERY](https://leklaquindanum.github.io/Midterm-Lab-Task-2/)
 - Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://leklaquindanum.github.io/Midterm-Lab-Task-3/)
+
+### For Finals  👇 
+- Finals Lab Task 1: [Creating a Database using MYSQL WORKBENCH]
+- Finals Lab Task 2: [Transforming ER Model into Relational Table]
+- Finals Lab Task 3: [Table Manipulation]
