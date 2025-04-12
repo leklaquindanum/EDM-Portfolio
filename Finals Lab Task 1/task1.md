@@ -34,7 +34,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 2. Department Table:
 
-
+![Image](https://github.com/user-attachments/assets/90f6d08e-f49c-4999-91c6-d26aa396fa93)
 
 3. Employee-Department Table:
 
@@ -55,7 +55,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 2. Department Table:
 
-
+![Image](https://github.com/user-attachments/assets/a4da5424-2c11-4885-86f7-25d4a9478d66)
 
 3. Employee-Department Table:
 
