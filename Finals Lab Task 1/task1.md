@@ -42,7 +42,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 4. Employee Project Table:
 
-
+![Image](https://github.com/user-attachments/assets/05840404-0542-4573-b7a8-b1a5876ddc50)
 
 5. Manager Table:
 
@@ -63,7 +63,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 4. Employee Project Table:
 
-
+![Image](https://github.com/user-attachments/assets/71fa586c-1200-4cd2-ac17-4cf670c78d97)
 
 5. Manager Table:
 
