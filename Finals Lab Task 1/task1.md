@@ -46,6 +46,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 5. Manager Table:
 
+![Image](https://github.com/user-attachments/assets/061b1551-7f28-4169-b7d5-8281163c23d4)
 
 ### B. Table Structure
 
@@ -67,4 +68,4 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 5. Manager Table:
 
-
+![Image](https://github.com/user-attachments/assets/38ae7a3c-a86c-4dc5-8fdd-7e559dad43c0)
