@@ -1,5 +1,5 @@
 # FINALS LAB TASK 1
-
+This Lab Task involves writing SQL queries, creating table structures, and developing relational schemas or ER diagrams.  To demonstrate the database's construction, the portfolio will also contain SQL copies of the database and table structures.
 
 ## Procedures
 
