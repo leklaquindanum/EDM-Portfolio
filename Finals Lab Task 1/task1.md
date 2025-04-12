@@ -29,6 +29,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 ### A. Query Statements
 
 1. Employee Table:
+
 ![Image](https://github.com/user-attachments/assets/5c40896b-3ec1-4aa3-9385-30e50efd2716)
 
 2. Department Table:
