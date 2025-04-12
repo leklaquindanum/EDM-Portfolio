@@ -1,5 +1,5 @@
 1. Create the employees table:
-- Define employee_id as a unique integer, auto-increment, and primary key.
+- Define [b]employee_id[b] as a unique integer, auto-increment, and primary key.
 - Define employee_name as a VARCHAR (up to 255 characters), and make it not null.
 - Define manager_id as an integer, which will be a foreign key referencing employee_id from the same table.
 
