@@ -31,5 +31,5 @@ Elementary: Salapungan Elementary School (2012-2018)
 
 ### For Finals  👇 
 - Finals Lab Task 1: [Creating a Database using MYSQL WORKBENCH]
-- Finals Lab Task 2: [Transforming ER Model into Relational Table]
+- Finals Lab Task 2: [Transforming ER Model to Relational Tables]
 - Finals Lab Task 3: [Table Manipulation]
