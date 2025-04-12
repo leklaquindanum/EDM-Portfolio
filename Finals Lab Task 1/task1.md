@@ -1,3 +1,8 @@
+# FINALS LAB TASK 1
+
+
+## Procedures
+
 1. Create the employees table:
 - Define employee_id as a unique integer, auto-increment, and primary key.
 - Define employee_name as a VARCHAR (up to 255 characters), and make it not null.
