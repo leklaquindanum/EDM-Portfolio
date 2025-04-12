@@ -38,11 +38,11 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 3. Employee-Department Table:
 
-![Image](https://github.com/user-attachments/assets/e24bef92-c996-4ea9-bf59-703da7b702dd)
+![Image](https://github.com/user-attachments/assets/a6617e7b-45ee-4691-9ab2-dba75686b7cc)
 
 4. Employee Project Table:
 
-![Image](https://github.com/user-attachments/assets/05840404-0542-4573-b7a8-b1a5876ddc50)
+![Image](https://github.com/user-attachments/assets/caf8f6a7-c06d-4a46-9c71-34d72330db4e)
 
 5. Manager Table:
 
