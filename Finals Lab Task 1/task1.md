@@ -38,7 +38,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 3. Employee-Department Table:
 
-
+![Image](https://github.com/user-attachments/assets/e24bef92-c996-4ea9-bf59-703da7b702dd)
 
 4. Employee Project Table:
 
@@ -59,7 +59,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 3. Employee-Department Table:
 
-
+![Image](https://github.com/user-attachments/assets/b0eff757-edfc-4a95-856e-bf529d57bddf)
 
 4. Employee Project Table:
 
