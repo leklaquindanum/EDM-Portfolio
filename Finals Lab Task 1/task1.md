@@ -69,3 +69,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 5. Manager Table:
 
 ![Image](https://github.com/user-attachments/assets/38ae7a3c-a86c-4dc5-8fdd-7e559dad43c0)
+
+### C. Entity Relationship Diagram
+
+![Image](https://github.com/user-attachments/assets/e45aef6e-f964-427e-8195-e4174bcaa0d1)
