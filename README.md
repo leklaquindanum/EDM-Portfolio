@@ -30,6 +30,6 @@ Elementary: Salapungan Elementary School (2012-2018)
 - Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://leklaquindanum.github.io/Midterm-Lab-Task-3/)
 
 ### For Finals  👇 
-- Finals Lab Task 1: [Creating a Database using MYSQL WORKBENCH]
+- Finals Lab Task 1: [Creating a Database using MYSQL WORKBENCH](https://github.com/leklaquindanum/Finals-Lab-Task-1)
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables]
 - Finals Lab Task 3: [Table Manipulation]
