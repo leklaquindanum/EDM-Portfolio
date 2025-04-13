@@ -36,10 +36,13 @@ Elementary: Salapungan Elementary School (2012-2018)
 
 ## 📢 My Contacts:
 
-### 📧 Email: alaquindanum24-0151@cca.edu.ph
+### 📧 Email:
+alaquindanum24-0151@cca.edu.ph
 
-### 💬 Facebook Messenger: facebook.com/allek.laquindanum (Allek Laquidanum)
+### 💬 Facebook Messenger:
+facebook.com/allek.laquindanum (Allek Laquidanum)
 
-### 📞 Contact Number: 0919-862-4394
+### 📞 Contact Number:
+0919-862-4394
 
-© 2025 Allek Miehl Almanzar Laquindanum. All rights reserved.
+#### © 2025 Allek Miehl Almanzar Laquindanum. All rights reserved.
