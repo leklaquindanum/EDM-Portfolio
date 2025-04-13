@@ -15,13 +15,13 @@ I am from the section *I102* of the *BSIS* course inside the **City College of A
 This is my **official portfolio** for the **EDM Midterms and Finals Lab Task.
 
 ## 🎓 Education:
-College: City College of Angeles (2024-Present)
+College: [City College of Angeles](https://cca.edu.ph/) (2024-Present)
 
-Senior High School: Systems Plus College Foundation (2022-2024)
+Senior High School: [Systems Plus College Foundation](https://www.spcf.edu.ph/) (2022-2024)
 
-Junior High School: Dr. Clemente N. Dayrit Senior Memorial High School (2018-2022)
+Junior High School: [Dr. Clemente N. Dayrit Senior Memorial High School](https://www.facebook.com/DCNDSMHS2018/) (2018-2022)
 
-Elementary: Salapungan Elementary School (2012-2018)
+Elementary: [Salapungan Elementary School](https://www.facebook.com/SalapunganES.AC/) (2012-2018)
 
 ## 📝 My Projects:
 ### For Midterms  👇 
