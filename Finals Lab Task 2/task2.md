@@ -26,7 +26,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 1. Student Table:
 
-![Image](https://github.com/user-attachments/assets/5966a04e-1bf8-4ffa-988f-3cd51d201a2d)
+![Image](https://github.com/user-attachments/assets/6890a90e-b778-45e7-b886-90b682f3aac2)
 
 2. Assignment Table:
 
@@ -40,7 +40,7 @@ This Lab Task involves writing SQL queries, creating table structures, and deve
 
 1. Student Table:
 
-
+![Image](https://github.com/user-attachments/assets/4bb67507-21d8-475a-81d3-33f8882c90e4)A
 
 2. Assignment Table:
 
