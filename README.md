@@ -1,4 +1,4 @@
-# EDM Tasks Portfolio
+# 7EDM Tasks Portfolio
 
 Portfolio for 7EDM-I102. This portfolio consists of screenshots of the tasks and processes of the provided tasks.
 
@@ -12,7 +12,7 @@ Hello, I am **Allek Miehl Almanzar Laquindanum**. I am *18 years old* as of *Feb
 I am from the section *I102* of the *BSIS* course inside the **City College of Angeles**.
 
 
-This is my **official portfolio** for the **EDM Midterms and Finals Lab Task.
+This is my **official portfolio** for the **7EDM Midterm and Finals A.Y 2024-2025**.
 
 ## 🎓 Education:
 College: [City College of Angeles](https://cca.edu.ph/) (2024-Present)
