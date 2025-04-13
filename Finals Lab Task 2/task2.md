@@ -23,21 +23,25 @@ This Lab Task focuses on transforming an Entity-Relationship Model into a Relati
 ## Relationships of each Table
 
 1. *student table*
+
 Primary Key: **username**
 Relationships:
 - *submission table*: One-to-Many — One student/username may have Many submissions.
 
-3. *assignment table*
+2. *assignment table*
+
 Primary Key: **shortname**
 Relationships:
 - *submission table*: One-to-Many — One assignment/shortname may have Many submissions.
 
-4. *submission table*
+3. *submission table*
+
 Composite Primary Key: **username, shortname, version**
 Relationships:
 - *student table*: Many-to-One — Each submission came from one student.
 - *assignment table*: Many-to-One — Each submission came from one assignment.
 
+### NOTE:
 *This Relational Model is a **Many-to-Many** relationship between **students** and **assignments**; while **version** is tracing many submissions.*
 
 ## Screenshots
