@@ -37,7 +37,7 @@ Elementary: [Salapungan Elementary School](https://www.facebook.com/SalapunganES
 ## 📢 My Contacts:
 
 ### 📧 Email:
-alaquindanum24-0151@cca.edu.ph
+[alaquindanum24-0151@cca.edu.ph](alaquindanum24-0151@cca.edu.ph)
 
 ### 💬 Facebook Messenger:
 [Allek Laquindanum](https://www.facebook.com/allek.laquindanum)
