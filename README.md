@@ -40,7 +40,7 @@ Elementary: Salapungan Elementary School (2012-2018)
 alaquindanum24-0151@cca.edu.ph
 
 ### 💬 Facebook Messenger:
-facebook.com/allek.laquindanum (Allek Laquidanum)
+[Allek Laquidanum](https://www.facebook.com/allek.laquindanum)
 
 ### 📞 Contact Number:
 0919-862-4394
