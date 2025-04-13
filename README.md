@@ -32,7 +32,7 @@ Elementary: Salapungan Elementary School (2012-2018)
 ### For Finals  👇 
 - Finals Lab Task 1: [Creating a Database using MYSQL WORKBENCH](https://leklaquindanum.github.io/Finals-Lab-Task-1/)
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://leklaquindanum.github.io/Finals-Lab-Task-2/)
-- Finals Lab Task 3: [Table Manipulation]
+- Finals Lab Task 3: Table Manipulation
 
 ## 📢 My Contacts:
 
@@ -40,7 +40,7 @@ Elementary: Salapungan Elementary School (2012-2018)
 alaquindanum24-0151@cca.edu.ph
 
 ### 💬 Facebook Messenger:
-[Allek Laquidanum](https://www.facebook.com/allek.laquindanum)
+[Allek Laquindanum](https://www.facebook.com/allek.laquindanum)
 
 ### 📞 Contact Number:
 0919-862-4394
