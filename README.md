@@ -33,6 +33,7 @@ Elementary: [Salapungan Elementary School](https://www.facebook.com/SalapunganES
 - Finals Lab Task 1: [Creating a Database using MYSQL WORKBENCH](https://leklaquindanum.github.io/Finals-Lab-Task-1/)
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://leklaquindanum.github.io/Finals-Lab-Task-2/)
 - Finals Lab Task 3: [Table Manipulation](https://leklaquindanum.github.io/Finals-Lab-Task-3/)
+- Finals Lab Task 3.1: [CRUD Using MySQL](https://leklaquindanum.github.io/Finals-Lab-Task-3.1/) 
 
 ## 📢 My Contacts:
 
