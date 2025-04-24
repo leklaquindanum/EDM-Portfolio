@@ -1,4 +1,4 @@
-# FINALS LAB TASK 2
+# FINALS LAB TASK 3
 This Lab Task shows on how to manipulate a MySQL table (Product Table).This includes creating, altering, and modifying the said table.
 
 ## Instructions
