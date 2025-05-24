@@ -24,11 +24,12 @@ This activity is different from the previous ones, as this time, it is about usi
    - Verify deletion by checking the collection contents.
 
 ## Screenshots
-1. Create database and collection:
+
+### Create database and collection:
 
 ![Image](https://github.com/user-attachments/assets/2d2cf971-986f-4314-9aef-a2538d9ae3f3)
 
-2. Insert documents:
+### Insert documents:
 
 2a. Fight Club
 
@@ -62,7 +63,7 @@ This activity is different from the previous ones, as this time, it is about usi
 
 ![Image](https://github.com/user-attachments/assets/e3049964-1d1c-4f7d-98fe-7a9fc3ada58b)
 
-3. FIND Documents:
+### FIND Documents:
 
 3a. Get all documents via find() command
 
@@ -88,7 +89,7 @@ This activity is different from the previous ones, as this time, it is about usi
 
 ![Image](https://github.com/user-attachments/assets/018491ad-6acd-41e7-9399-f9ab9779f580)
 
-4. UPDATE Documents:
+### UPDATE Documents:
 
 4a. Add synopsis to "The Hobbit: An Unexpected Journey"
 
@@ -108,7 +109,7 @@ This activity is different from the previous ones, as this time, it is about usi
 
 ![Image](https://github.com/user-attachments/assets/32706faf-9da5-4004-95d6-c47f4cb47b76)
 
-5. Text Search:
+### Text Search:
 
 5a. Find all movies that have a synopsis that contains the word "Bilbo"
 
@@ -130,7 +131,7 @@ This activity is different from the previous ones, as this time, it is about usi
 
 ![Image](https://github.com/user-attachments/assets/d2138eab-b775-491d-a0e0-cee836f8ab4a)
 
-6. DELETE Documents:
+### DELETE Documents:
 
 6a. Delete the movie "Pee Wee Herman's Big Adventure"
 
@@ -141,7 +142,7 @@ This activity is different from the previous ones, as this time, it is about usi
 ![Image](https://github.com/user-attachments/assets/674e8716-1674-4742-af5e-6414719a2f22)
 
 ## Relationships
-1. Insert the following documents into a “users” collection
+### Insert the following documents into a “users” collection
 
 1a. Create collection named “users”
 
@@ -153,7 +154,7 @@ This activity is different from the previous ones, as this time, it is about usi
 
 ![Image](https://github.com/user-attachments/assets/3a4f0574-1234-486f-863b-bd6d312e83d1)
 
-2. Insert the following documents into a “posts” collection
+### Insert the following documents into a “posts” collection
 
 2a. Create collection named “posts”
 
@@ -173,7 +174,7 @@ This activity is different from the previous ones, as this time, it is about usi
 
 ![Image](https://github.com/user-attachments/assets/9896f3bc-cdcc-47b6-a47f-54ec382dfef1)
 
-3. Insert the following documents into a “comments” collection
+### Insert the following documents into a “comments” collection
 
 3a. Create collection named “comments”
 
@@ -191,7 +192,7 @@ This activity is different from the previous ones, as this time, it is about usi
 
 ![Image](https://github.com/user-attachments/assets/b333c322-4f09-4e4e-8686-c09d21983b3e)
 
-4. Querying/finding related collections
+### Querying/finding related collections
 
 4a. Find all users via find command
 
