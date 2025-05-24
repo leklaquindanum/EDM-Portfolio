@@ -9,7 +9,7 @@ This activity includes filtering data with views, modifying records with stored 
 
 ## Instructions and Results:
 
-1. Create a View, specifically products with "P_INDATE" from 2002 and onwards:
+Create a View, specifically products with "P_INDATE" from 2002 and onwards:
 
 ![Image](https://github.com/user-attachments/assets/991e54d4-8529-43d9-a16f-ead38e50a2b4)
 
@@ -17,7 +17,7 @@ Output:
 
 ![Image](https://github.com/user-attachments/assets/e4aa5c9a-5a98-480f-998c-28e7c4c5ff59)
 
-2. Create a View, specifically to show products' prices from 100 to 150:
+Create a View, specifically to show products' prices from 100 to 150:
 
 ![Image](https://github.com/user-attachments/assets/684be38e-ee5b-42f2-aa23-69a902300106)
 
@@ -25,7 +25,7 @@ Output:
 
 ![Image](https://github.com/user-attachments/assets/723743bd-0323-4eaa-97f1-a3a481b405bf)
 
-3. Create a View, to show total cost for particular vendor codes:
+Create a View, to show total cost for particular vendor codes:
 
 ![Image](https://github.com/user-attachments/assets/95772e76-2195-4130-a320-573f22d1c129)
 
@@ -33,7 +33,7 @@ Output:
 
 ![Image](https://github.com/user-attachments/assets/ca97c5d2-5bf2-49dc-af15-8be3b07fbe03)
 
-4. Create a Stored Procedure:
+Create a Stored Procedure:
 
 ![Image](https://github.com/user-attachments/assets/b2e86f8a-289b-429d-a653-ce0dd3d19c5d)
 
@@ -45,7 +45,7 @@ Note: Before using CALL, run this command:
 
 ![Image](https://github.com/user-attachments/assets/eaefd50b-3091-4a56-825a-927cbde737da)
 
-5. Create a Function, to return products by V_CODE and State:
+Create a Function, to return products by V_CODE and State:
 
 ![Image](https://github.com/user-attachments/assets/e52ae331-b404-43e1-9dec-1019850ccf76)
 
