@@ -35,7 +35,7 @@ Elementary: [Salapungan Elementary School](https://www.facebook.com/SalapunganES
 - Finals Lab Task 3: [Table Manipulation](https://leklaquindanum.github.io/Finals-Lab-Task-3/)
 - Finals Lab Task 4: [CRUD Using MySQL](https://leklaquindanum.github.io/Finals-Lab-Task-3.1/) 
 - Finals Lab Task 5: [SQL views, Stored Procedures and Stored Functions](https://leklaquindanum.github.io/Finals-Lab-Task-5/)
-- Finals Lab Task 6: [CRUD Using MongoDB]
+- Finals Lab Task 6: [CRUD Using MongoDB](https://leklaquindanum.github.io/Finals-Lab-Task-6/)
 
 ## 📢 My Contacts:
 
