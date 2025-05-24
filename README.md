@@ -6,10 +6,10 @@ Portfolio for 7EDM-I102. This portfolio consists of screenshots of the tasks and
 
 ![Image](https://github.com/user-attachments/assets/e1ffb495-623a-44dd-b7c7-b36ad54ac329)
 
-Hello, I am **Allek Miehl Almanzar Laquindanum**. I am *18 years old* as of *February 2025*.
+Hello, I am **Allek Miehl Almanzar Laquindanum**. I am 18 years old as of February 2025.
 
 
-I am from the section *I102* of the *BSIS* course inside the **City College of Angeles**.
+I am from the section I102 under the Bachelor of Science in Information Systems course inside the **City College of Angeles**.
 
 
 This is my **official portfolio** for the **7EDM Midterm and Finals A.Y 2024-2025**.
